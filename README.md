@@ -10,3 +10,5 @@ still not quite getting it...
 Input from local repo to be pushed to remote repo using RStudio
 
 test
+
+going from github to ide
